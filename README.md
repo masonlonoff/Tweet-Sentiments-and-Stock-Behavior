@@ -5,7 +5,7 @@ This repository contains work done for the capstone project for my capstone proj
 
 1)[Final Project Codes](https://github.com/masonlonoff/Tweet-Sentiments-and-Stock-Behavior/blob/main/1007_final_project_fv.ipynb): Final Project codes with supplementary insights. This file lays out our objectives, source, and the dives into a deep analysis.
 
-2)[Insight Innovators Slides](https://github.com/masonlonoff/Tweet-Sentiments-and-Stock-Behavior/blob/main/Insight_Innovators_Group_17.pptx): This file contains the final presentation slides.
+2)[Insight Innovators Slides](https://github.com/masonlonoff/Tweet-Sentiments-and-Stock-Behavior/blob/main/Insight_Innovators_Group_17.pdf): This file contains the final presentation slides.
 
 3)[Project DS-GS-1007](https://github.com/masonlonoff/Tweet-Sentiments-and-Stock-Behavior/blob/main/Project_DSGA1007_Fall2024.pdf): This is the project specification file. 
 
