@@ -15,4 +15,3 @@ This repository contains work done for the capstone project for my capstone proj
 #### Additional Notes
 - While the entire group collaborated on the entire project, my focus was on research question two (analyzing across industries)
 - The actual dataset can be found here: https://www.kaggle.com/datasets/thedevastator/tweet-sentiment-s-impact-on-stock-returns/data
-- Please note that you won't be able to view the slides within github as the file is too large. Please download it to your local machine to view.
